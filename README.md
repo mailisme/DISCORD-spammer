@@ -6,7 +6,8 @@ https://www.youtube.com/watch?v=YEgFvgg7ZPI
 Open Network and send a messages
 
 That link
-![img](https://hackmd.io/_uploads/Sy4A3f_Sa.jpg)
+img:
+https://hackmd.io/_uploads/Sy4A3f_Sa.jpg
 
 ######  made in python
 ######  by mail_chen
